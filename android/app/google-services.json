@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "815690426020",
+    "firebase_url": "https://addjust-cfd8a.firebaseio.com",
+    "project_id": "addjust-cfd8a",
+    "storage_bucket": "addjust-cfd8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815690426020:android:f3033312507906f2",
+        "android_client_info": {
+          "package_name": "akki7272.imageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815690426020-5qndmic0qu2tlpig1jvub6nlrn09hnab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTTJBAsujHSXc6HGV_k5uioAfK7aKWgIU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
