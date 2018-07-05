@@ -1,6 +1,6 @@
-# imageupload
+# Flutter app to share pictures using firebase.
 
-Image Upload 
+This is photo sharing app, which will upload pictures to firebase database from phone storage or camera. Later those pictures can be viewed inside gallery.
 
 ## Getting Started
 
